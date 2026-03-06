@@ -1,82 +1,83 @@
-<div align="center">
+👋 Hi, I'm Rey Lawrence S. Nodado
 
-# Rey Lawrence Nodado
-### Mobile Developer · ML Engineer · Web Developer · Student
+💻 Frontend Developer | Data Science & Machine Learning Enthusiast
+🎓 Student passionate about building AI-powered applications, IoT systems, and modern web platforms
 
-*Turning data into decisions — predictive models, mobile apps, and clean web experiences.*
+I enjoy combining Machine Learning, IoT, and Full Stack Development to build intelligent systems that solve real-world problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rey-lawrence-nodado-1604743b2)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lawrenci01)
+🚀 About Me
 
-</div>
+🎓 Currently studying Data Science & Machine Learning
 
----
+🤖 Exploring Artificial Intelligence
 
-## About
+🌐 Building Web & Mobile Applications
 
-I'm a Computer Science student at **Naga College Foundation** with a focus on machine learning, mobile development, and simple web development. I enjoy building systems that take real-world data and make it meaningful — whether through predictions, mobile interfaces, or clean web apps.
+🔬 Developing Machine Learning systems
 
-- 🤖 Focused on **Machine Learning** — LSTM, MLP, Ensemble models
-- 📱 Building **Mobile Applications** connected to real data sources
-- 🌐 Creating clean and functional **Web Apps**
-- 📍 Based in Naga City, Philippines
-- 🏆 **Top Finalist — Naga First Memorial Hackathon**
+⚡ Interested in AI, IoT, Data Science, and Full Stack Development
 
----
+🛠 Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,js,html,react,nodejs,flask,pytorch,mysql,supabase,git,docker,vscode" /> </p>
+🌟 Featured Projects
+🌍 Carbon Watch
 
-## Projects
+Carbon Watch is an IoT environmental monitoring system that detects:
 
-### 🌫️ Carbon Watch
-> A **real-time environmental monitoring device** that detects **CO₂, temperature, and humidity** and sends live sensor data to a connected mobile application.
+CO₂ Levels
 
-- Device captures real-time gas and climate readings
-- Data is transmitted to a custom-built mobile app
-- ML models predict **daily CO₂, temperature, and humidity** trends
-- Models used: **LSTM · Triple MLP · Ensemble**
-- **Stack:** Python · Mobile App · LSTM · MLP · Ensemble Learning · JavaScript
+Temperature
 
----
+Humidity
 
-### 📱 Abaca Scanner
-> Mobile app that scans abaca leaves using a phone camera and identifies **RHS (Retting Harvest Stage)** color using a trained computer vision model.
+The device sends real-time sensor data to a mobile application, allowing users to monitor environmental conditions.
 
-- Real-time leaf classification via on-device ML model
-- Helps farmers assess abaca fiber quality instantly in the field
-- **Stack:** Python · Mobile (Camera API) · Computer Vision · ML
+A Machine Learning model predicts daily CO₂, temperature, and humidity trends to analyze environmental patterns.
 
----
+Tech Stack
 
-## Skills
+Python
 
-```
-Languages     Python · JavaScript · HTML · CSS
-Mobile        Mobile App Development · Sensor Data Integration
-ML / AI       LSTM · MLP · Ensemble Models · Computer Vision
-Web           Simple Web Development · UI Layouts
-Tools         Git · GitHub · VS Code
-```
+Keras
 
----
+Flask
 
-## Achievements
+MySQL
 
-| 🏆 | Naga First Memorial Hackathon — **Top Finalist** |
-|---|---|
+IoT Sensors
 
----
+🌿 Abaca Scanner
 
-## GitHub Stats
+Abaca Scanner is a mobile application that works offline to classify abaca fibers.
 
-<div align="center">
+The system scans abaca and predicts its RHS color code and classification using Machine Learning.
 
-![lawrenci01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrenci01&show_icons=true&theme=default&hide_border=true&count_private=true)
+It uses a Triple MLP Ensemble Model to improve prediction accuracy.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenci01&layout=compact&theme=default&hide_border=true)
+Tech Stack
 
-</div>
+Python
 
----
+Machine Learning
 
-<div align="center">
-<sub>Open to collaborations in ML, mobile dev & web · Feel free to reach out</sub>
-</div>
+Supabase
+
+HTML
+
+JavaScript
+
+📊 GitHub Stats
+
+⚠️ Lawrenci01
+
+🌐 Connect With Me
+
+💼 LinkedIn
+https://linkedin.com/in/rey-lawrence-nodado-1604743b2
+
+📧 Email
+rlnodado@gbox.ncf.edu.ph
+
+👀 Profile Views
+
+💡 “Building intelligent systems that combine AI, data, and real-world applications.”
