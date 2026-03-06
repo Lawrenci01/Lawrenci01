@@ -6,7 +6,7 @@ Hi, I'm Lawrence 👋
 🤖 Interested in Artificial Intelligence
 🌐 Building Web and Mobile Applications
 
-Tech Stack
+Tech Stack 
 <p> <img src="https://skillicons.dev/icons?i=python,js,nodejs,flask,pytorch,git,vscode" /> </p>
 
 
