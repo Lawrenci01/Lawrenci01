@@ -7,7 +7,7 @@ Hi, I'm Lawrence 👋
 🌐 Building Web and Mobile Applications
 
 Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=python,js,html,react,nodejs,flask,pytorch,mysql,supabase,git,docker,vscode" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,js,nodejs,flask,keras,git,vscode" /> </p>
 
 
 Contact
