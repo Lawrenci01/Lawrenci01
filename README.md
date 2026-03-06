@@ -12,6 +12,6 @@ Tech Stack
 
 Contact
 LinkedIn
-https://linkedin.com/in/rey-lawrence-nodado-1604743b2 
+https://linkedin.com/in/rey-lawrence-nodado-1604743b2  
 Email
 rlnodado@gbox.ncf.edu.ph
