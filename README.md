@@ -1,83 +1,36 @@
-👋 Hi, I'm Rey Lawrence S. Nodado
+Hi, I'm Rey Lawrence S. Nodado 👋
 
-💻 Frontend Developer | Data Science & Machine Learning Enthusiast
-🎓 Student passionate about building AI-powered applications, IoT systems, and modern web platforms
+🎓 Student focused on Data Science, Machine Learning, and Frontend Development.
+I enjoy building projects that combine AI, IoT, and modern web applications.
 
-I enjoy combining Machine Learning, IoT, and Full Stack Development to build intelligent systems that solve real-world problems.
+🌱 Currently studying Data Science & Machine Learning
 
-🚀 About Me
+🤖 Interested in Artificial Intelligence
 
-🎓 Currently studying Data Science & Machine Learning
-
-🤖 Exploring Artificial Intelligence
-
-🌐 Building Web & Mobile Applications
-
-🔬 Developing Machine Learning systems
-
-⚡ Interested in AI, IoT, Data Science, and Full Stack Development
-
-🛠 Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,js,html,react,nodejs,flask,pytorch,mysql,supabase,git,docker,vscode" /> </p>
-🌟 Featured Projects
-🌍 Carbon Watch
-
-Carbon Watch is an IoT environmental monitoring system that detects:
-
-CO₂ Levels
-
-Temperature
-
-Humidity
-
-The device sends real-time sensor data to a mobile application, allowing users to monitor environmental conditions.
-
-A Machine Learning model predicts daily CO₂, temperature, and humidity trends to analyze environmental patterns.
+🌐 Building Web and Mobile Applications
 
 Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=python,js,html,react,nodejs,flask,pytorch,mysql,supabase,git,docker,vscode" /> </p>
+Projects
+Carbon Watch
 
-Python
+IoT environmental monitoring system that measures CO₂, temperature, and humidity and sends real-time data to a mobile application.
+A machine learning model predicts daily environmental trends.
 
-Keras
+Tech: Python, Keras, Flask, MySQL
 
-Flask
+Abaca Scanner
 
-MySQL
+Mobile application that scans abaca fibers offline and predicts their RHS color code and classification using machine learning.
 
-IoT Sensors
+Tech: Python, Machine Learning (Triple MLP Ensemble), Supabase, HTML, JavaScript
 
-🌿 Abaca Scanner
+GitHub Stats
 
-Abaca Scanner is a mobile application that works offline to classify abaca fibers.
+Contact
 
-The system scans abaca and predicts its RHS color code and classification using Machine Learning.
-
-It uses a Triple MLP Ensemble Model to improve prediction accuracy.
-
-Tech Stack
-
-Python
-
-Machine Learning
-
-Supabase
-
-HTML
-
-JavaScript
-
-📊 GitHub Stats
-
-⚠️ Lawrenci01
-
-🌐 Connect With Me
-
-💼 LinkedIn
+LinkedIn
 https://linkedin.com/in/rey-lawrence-nodado-1604743b2
 
-📧 Email
+Email
 rlnodado@gbox.ncf.edu.ph
-
-👀 Profile Views
-
-💡 “Building intelligent systems that combine AI, data, and real-world applications.”
