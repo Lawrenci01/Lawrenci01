@@ -1,4 +1,4 @@
-Hi, I'm Lawrence 👋
+Hello, I'm Lawrence 👋
 
 🎓 Student focused on Data Science, Machine Learning, and Frontend Development.
 
@@ -14,4 +14,4 @@ Contact
 LinkedIn
 https://linkedin.com/in/rey-lawrence-nodado-1604743b2  
 Email
-rlnodado@gbox.ncf.edu.ph
+rlnodado@gbox.ncf.edu.ph 
