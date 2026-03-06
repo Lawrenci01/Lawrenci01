@@ -4,7 +4,7 @@ Hi, I'm Lawrence 👋
 
 🌱 Currently studying Data Science & Machine Learning
 🤖 Interested in Artificial Intelligence
-🌐 Building Web and Mobile Applications
+🌐 Building Web and Mobile Applications 
 
 Tech Stack 
 <p> <img src="https://skillicons.dev/icons?i=python,js,nodejs,flask,pytorch,git,vscode" /> </p>
