@@ -1,9 +1,9 @@
 <div align="center">
 
 # Rey Lawrence Nodado
-### Mobile Developer · ML Engineer · IoT Builder · Student
+### Mobile Developer · ML Engineer · Web Developer · Student
 
-*Connecting devices to intelligence — from IoT sensors to predictive mobile apps.*
+*Turning data into decisions — predictive models, mobile apps, and clean web experiences.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rey-lawrence-nodado-1604743b2)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lawrenci01)
@@ -14,25 +14,26 @@
 
 ## About
 
-I'm a Computer Science student at **Naga College Foundation** focused on mobile development, IoT systems, and applied machine learning. I build end-to-end solutions that bridge physical hardware with intelligent software — turning raw sensor data into real predictions people can act on.
+I'm a Computer Science student at **Naga College Foundation** with a focus on machine learning, mobile development, and simple web development. I enjoy building systems that take real-world data and make it meaningful — whether through predictions, mobile interfaces, or clean web apps.
 
-- 📱 Passionate about **Mobile Development** & **IoT**
-- 🤖 Building with **Machine Learning** — LSTM, MLP, Ensemble models
+- 🤖 Focused on **Machine Learning** — LSTM, MLP, Ensemble models
+- 📱 Building **Mobile Applications** connected to real data sources
+- 🌐 Creating clean and functional **Web Apps**
 - 📍 Based in Naga City, Philippines
-- 🏆 **Top 5 — Naga First Memorial Hackathon**
+- 🏆 **Top Finalist — Naga First Memorial Hackathon**
 
 ---
 
 ## Projects
 
-### ⌚ Cabron Watch
-> An **IoT wearable device** connected to a mobile application that uses ML models to predict **CO₂ levels, temperature, and humidity** on a daily basis.
+### 🌫️ Carbon Watch
+> A **real-time environmental monitoring device** that detects **CO₂, temperature, and humidity** and sends live sensor data to a connected mobile application.
 
-- Hardware sensor streams live environmental data to the mobile app
-- On-app ML models forecast climate conditions in advance
+- Device captures real-time gas and climate readings
+- Data is transmitted to a custom-built mobile app
+- ML models predict **daily CO₂, temperature, and humidity** trends
 - Models used: **LSTM · Triple MLP · Ensemble**
-- Designed for real-world environmental monitoring use cases
-- **Stack:** Python · Mobile App · IoT Device · LSTM · MLP · Ensemble Learning · JavaScript
+- **Stack:** Python · Mobile App · LSTM · MLP · Ensemble Learning · JavaScript
 
 ---
 
@@ -49,9 +50,9 @@ I'm a Computer Science student at **Naga College Foundation** focused on mobile 
 
 ```
 Languages     Python · JavaScript · HTML · CSS
-Mobile        Mobile App Development · Camera/Sensor APIs
-IoT           Device Integration · Sensor Data Streaming
+Mobile        Mobile App Development · Sensor Data Integration
 ML / AI       LSTM · MLP · Ensemble Models · Computer Vision
+Web           Simple Web Development · UI Layouts
 Tools         Git · GitHub · VS Code
 ```
 
@@ -77,5 +78,5 @@ Tools         Git · GitHub · VS Code
 ---
 
 <div align="center">
-<sub>Open to collaborations in mobile dev, IoT & ML · Feel free to reach out</sub>
+<sub>Open to collaborations in ML, mobile dev & web · Feel free to reach out</sub>
 </div>
