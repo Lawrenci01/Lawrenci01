@@ -9,7 +9,6 @@ Hi, I'm Lawrence 👋
 Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=python,js,html,react,nodejs,flask,pytorch,mysql,supabase,git,docker,vscode" /> </p>
 
-GitHub Stats
 
 Contact
 LinkedIn
